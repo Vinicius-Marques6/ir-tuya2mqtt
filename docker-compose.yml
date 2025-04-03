@@ -1,0 +1,7 @@
+services:
+  tinytuya2mqtt:
+    container_name: tinytuya2mqtt
+    network_mode: host
+    build:
+      context: .
+    restart: unless-stopped

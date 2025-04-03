@@ -1,0 +1,9 @@
+on/cool/25/low {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D9F60C03F@%","type":0,"delay":300}
+on/cool/25/medium {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D5FA0C03F@%","type":0,"delay":300}
+on/cool/25/high {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D3FC0C03F@%","type":0,"delay":300}
+on/cool/17/low {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D9F6000FF@%","type":0,"delay":300}
+on/cool/17/medium {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D5FA000FF@%","type":0,"delay":300}
+on/cool/17/high {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D3FC000FF@%","type":0,"delay":300}
+off {"control":"send_ir","head":"010ece0000000000040014003e00ab00ca","key1":"002$$0030B24D7B84E01F@%","type":0,"delay":300} 
+philco/on/cool/23/medium {"control":"send_ir","head":"010ed80000000000050015003e002600a10142","key1":"001^%00786ACE0000C400000000000000000058@$","type":0,"delay":300}
+philco/off {"control":"send_ir","head":"010ed80000000000050015003e002600a10142","key1":"001^%00786A36000044030000000000000000B4@$","type":0,"delay":300}
